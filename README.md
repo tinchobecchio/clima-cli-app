@@ -1,0 +1,1 @@
+Busca el clima de la ciudad que se introduzca
